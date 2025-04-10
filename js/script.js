@@ -28,7 +28,13 @@ const perfumes = [
         preco: "R$ 229,90",
         imagem: "img/9pm.png",
         link: "produto.html"
-    }
+    },
+    {
+      nome: "Afnan 9PM",
+      preco: "R$ 229,90",
+      imagem: "img/9pm.png",
+      link: "produto.html"
+  }
   ];
   
   // Exibir todos os perfumes
